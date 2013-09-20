@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#HTML parsing library
+gem 'nokogiri'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
