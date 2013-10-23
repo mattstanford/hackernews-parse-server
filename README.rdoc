@@ -1,5 +1,0 @@
-== Hacker News Parse Server
-
-This server parses Hacker News (news.ycombinator.com) and serves out JSON to supporting apps
-
-
